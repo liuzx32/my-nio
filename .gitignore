@@ -1,0 +1,29 @@
+/dependency-reduced-pom.xml
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#package files
+target
+*.xml.bak
+*.iml
+.idea
+.idea/*
+
+# mac ignore
+.DS_Store
+
+#demo file
+AlexDemo.java
+
+#diff file
+diff*
+*.diff
+
+.classpath
+.project
+.settings/
+*.pyc
